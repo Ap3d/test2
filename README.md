@@ -1,2 +1,2 @@
 # test2
-kek
+This is a simple repo
